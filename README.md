@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Maven-3.3.9-red.svg" alt="Maven">
 </p>
 
-Simple application to calculate Body Mass Index (IMC) developed as a Web Programming class assignment.
+Simple application to calculate Body Mass Index (IMC) using MVC pattern developed as a Web Programming class assignment.
 
 ---
 
@@ -22,7 +22,7 @@ The following technologies was used:
 
 To run the application first, clone the repository:
 
-`git clone https://github.com/akwaryo/dynamic-imc`
+`git clone https://github.com/akwaryo/imc-mvc`
 
 Then you can run with Tomcat, just type in the terminal, inside the project folder:
 
@@ -30,7 +30,7 @@ Then you can run with Tomcat, just type in the terminal, inside the project fold
 
 Open any browser and type:
 
-`http://localhost:9090/dynamic-imc/`
+`http://localhost:9090/imc-mvc/`
 
 And Done! Now you can access the project.
 
